@@ -15,7 +15,7 @@ public class tugas2_1 {
         String[] nama = {"Sugito","Prayoga","Wibowo"};
 
         for (int i = 0; i < nama.length; i++) {
-            System.out.println(nama[i]);
+            System.out.print(nama[i] + " ");
         }
     }
     
